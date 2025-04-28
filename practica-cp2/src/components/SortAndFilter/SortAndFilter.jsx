@@ -24,8 +24,8 @@ export const SortAndFilter = () => {
                     Filter By:
                 </Typography>
                 <Box sx={{ display: 'flex', gap: 1 }}>
-                    <Button variant="outlined">Mass</Button>
-                    <Button variant="outlined">Density</Button>
+                    <Button variant="outlined">It's a planet</Button>
+                    <Button variant="outlined">It's not a planet</Button>
                     <Button variant="outlined">Gravity</Button>
                     <Button variant="outlined">Diameter</Button>
                     <Button variant="outlined">Others</Button>

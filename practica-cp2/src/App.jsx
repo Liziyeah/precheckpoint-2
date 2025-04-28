@@ -8,7 +8,6 @@ function App() {
   return (
     <>  
       <Banner></Banner>
-      <SortAndFilter></SortAndFilter>
       <RoutesNav></RoutesNav>
     </>
 
